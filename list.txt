@@ -1,1 +1,1 @@
-['map','torch','radio','compass']	
+['map','torch','radio']	
